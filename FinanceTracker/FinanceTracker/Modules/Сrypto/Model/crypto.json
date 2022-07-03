@@ -1,0 +1,145 @@
+
+{
+    "topCrypto": [
+        {
+            "tether": "BTC",
+            "name": "Bitcoin"
+        },
+        {
+            "tether": "ETH",
+            "name": "Ethereum"
+        },
+        {
+            "tether": "BNB",
+            "name": "Binance Coin"
+        },
+        {
+            "tether": "XRP",
+            "name": "Ripple"
+        },
+        {
+            "tether": "SOL",
+            "name": "Solana"
+        },
+        {
+            "tether": "ADA",
+            "name": "Cardano"
+        },
+        {
+            "tether": "LUNA",
+            "name": "Terra"
+        },
+        {
+            "tether": "AVAX",
+            "name": "Avalance"
+        },
+        {
+            "tether": "DOGE",
+            "name": "Dogecoin"
+        },
+        {
+            "tether": "DOT",
+            "name": "Polkadot"
+        },
+        {
+            "tether": "UST",
+            "name": "TerraUSD"
+        },
+        {
+            "tether": "SHIB",
+            "name": "SHIBA INU"
+        },
+        {
+            "tether": "LTC",
+            "name": "Litecoin"
+        },
+        {
+            "tether": "NEAR",
+            "name": "NEAR Protocol"
+        },
+        {
+            "tether": "MATIC",
+            "name": "Polygon"
+        },
+        {
+            "tether": "UNI",
+            "name": "Uniswap"
+        },
+        {
+            "tether": "BCH",
+            "name": "Bitcoin Cash"
+        },
+        {
+            "tether": "FTT",
+            "name": "FTX Token"
+        },
+        {
+            "tether": "TRX",
+            "name": "TRON"
+        },
+        {
+            "tether": "XLM",
+            "name": "Stellar"
+        },
+        {
+            "tether": "ALGO",
+            "name": "Algorand"
+        },
+        {
+            "tether": "XMR",
+            "name": "Monero"
+        },
+        {
+            "tether": "FIL",
+            "name": "File Coin"
+        },
+        {
+            "tether": "MANA",
+            "name": "Decentraland"
+        },
+        {
+            "tether": "VET",
+            "name": "VECHAIN"
+        },
+        {
+            "tether": "ICP",
+            "name": "Internet Computer"
+        },
+        {
+            "tether": "EGLD",
+            "name": "Elrond"
+        },
+        {
+            "tether": "SAND",
+            "name": "The Sandbox"
+        },
+        {
+            "tether": "THETA",
+            "name": "Theta Token"
+        },
+        {
+            "tether": "FTM",
+            "name": "FANTOM"
+        },
+        {
+            "tether": "XTZ",
+            "name": "Tezos"
+        },
+        {
+            "tether": "AXS",
+            "name": "Axie Infinity"
+        },
+        {
+            "tether": "KLAY",
+            "name": "Klaytn"
+        },
+        {
+            "tether": "CAKE",
+            "name": "PancakeSwap"
+        },
+        {
+            "tether": "HNT",
+            "name": "Helium"
+        }
+    ]
+}

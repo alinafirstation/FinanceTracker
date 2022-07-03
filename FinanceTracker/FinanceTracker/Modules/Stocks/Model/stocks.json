@@ -1,0 +1,280 @@
+
+{
+    "topStocks": [
+        {
+            "ticker": "AAPL",
+            "companyName": "Apple Inc",
+            "currency": "USD"
+        },
+        {
+            "ticker": "FB",
+            "companyName": "Meta Platforms",
+            "currency": "USD"
+        },
+        {
+            "ticker": "TSLA",
+            "companyName": "Tesla Motors",
+            "currency": "USD"
+        },
+        {
+            "ticker": "ABNB",
+            "companyName": "Airbnb Inc",
+            "currency": "USD"
+        },
+        {
+            "ticker": "V",
+            "companyName": "Visa",
+            "currency": "USD"
+        },
+        {
+            "ticker": "MCD",
+            "companyName": "McDonald's",
+            "currency": "USD"
+        },
+        {
+            "ticker": "MSFT",
+            "companyName": "Microsoft Corporation",
+            "currency": "USD"
+        },
+        {
+            "ticker": "NVDA",
+            "companyName": "NVIDIA Corporation",
+            "currency": "USD"
+        },
+        {
+            "ticker": "T",
+            "companyName": "AT&T Inc",
+            "currency": "USD"
+        },
+        {
+            "ticker": "F",
+            "companyName": "Ford Motor Company",
+            "currency": "USD"
+        },
+        {
+            "ticker": "INTC",
+            "companyName": "Intel Corporation",
+            "currency": "USD"
+        },
+        {
+            "ticker": "ADBE",
+            "companyName": "Adobe",
+            "currency": "USD"
+        },
+        {
+            "ticker": "HAL",
+            "companyName": "Halliburton Co",
+            "currency": "USD"
+        },
+        {
+            "ticker": "CVX",
+            "companyName": "Chevron Corp",
+            "currency": "USD"
+        },
+        {
+            "ticker": "COP",
+            "companyName": "Conocophillips",
+            "currency": "USD"
+        },
+        {
+            "ticker": "DISCK",
+            "companyName": "Discovery Inc",
+            "currency": "USD"
+        },
+        {
+            "ticker": "OGN",
+            "companyName": "Organon & Co",
+            "currency": "USD"
+        },
+        {
+            "ticker": "XOM",
+            "companyName": "Exxon Mobil",
+            "currency": "USD"
+        },
+        {
+            "ticker": "NFLX",
+            "companyName": "Netflix Inc",
+            "currency": "USD"
+        },
+        {
+            "ticker": "BKNG",
+            "companyName": "Booking Holdings Inc",
+            "currency": "USD"
+        },
+        {
+            "ticker": "MU",
+            "companyName": "Micron Technology Inc",
+            "currency": "USD"
+        },
+        {
+            "ticker": "BA",
+            "companyName": "Boeing Co",
+            "currency": "USD"
+        },
+        {
+            "ticker": "AMZN",
+            "companyName": "Amazon.com Inc",
+            "currency": "USD"
+        },
+        {
+            "ticker": "UPST",
+            "companyName": "Upstart Holdings Inc",
+            "currency": "USD"
+        },
+        {
+            "ticker": "SHOP",
+            "companyName": "Shopify Inc",
+            "currency": "USD"
+        },
+        {
+            "ticker": "PYPL",
+            "companyName": "PayPal Holdings Inc",
+            "currency": "USD"
+        },
+        {
+            "ticker": "CSCO",
+            "companyName": "Cisco Systems Inc",
+            "currency": "USD"
+        },
+        {
+            "ticker": "SBUX",
+            "companyName": "Starbucks Corporation",
+            "currency": "USD"
+        },
+        {
+            "ticker": "C",
+            "companyName": "Citigroup Inc",
+            "currency": "USD"
+        },
+        {
+            "ticker": "QCOM",
+            "companyName": "Qualcomm Inc",
+            "currency": "USD"
+        },
+        {
+            "ticker": "SQ",
+            "companyName": "Block Inc",
+            "currency": "USD"
+        },
+        {
+            "ticker": "RIVN",
+            "companyName": "Rivian Automotive Inc",
+            "currency": "USD"
+        },
+        {
+            "ticker": "ORCL",
+            "companyName": "Oracle Corporation",
+            "currency": "USD"
+        },
+        {
+            "ticker": "DOCU",
+            "companyName": "DocuSign Inc",
+            "currency": "USD"
+        },
+        {
+            "ticker": "AMD",
+            "companyName": "Advanced Micro Devices Inc",
+            "currency": "USD"
+        },
+        {
+            "ticker": "TSM",
+            "companyName": "Taiwan Semiconductor",
+            "currency": "USD"
+        },
+        {
+            "ticker": "JPM",
+            "companyName": "JPMorgan Chase & Co",
+            "currency": "USD"
+        },
+        {
+            "ticker": "BABA",
+            "companyName": "Alibaba Group Holdings",
+            "currency": "USD"
+        },
+        {
+            "ticker": "GOOGL",
+            "companyName": "Alphabet Inc Class A",
+            "currency": "USD"
+        },
+        {
+            "ticker": "GOOG",
+            "companyName": "Alphabet Inc Class C",
+            "currency": "USD"
+        },
+        {
+            "ticker": "BAC",
+            "companyName": "Bank of America",
+            "currency": "USD"
+        },
+        {
+            "ticker": "PFE",
+            "companyName": "Pfizer Inc",
+            "currency": "USD"
+        },
+        {
+            "ticker": "JD",
+            "companyName": "JD.com Inc",
+            "currency": "USD"
+        },
+        {
+            "ticker": "SNOW",
+            "companyName": "Snowflake Inc",
+            "currency": "USD"
+        },
+        {
+            "ticker": "CRWD",
+            "companyName": "Crowdstrike Holdings Inc",
+            "currency": "USD"
+        },
+        {
+            "ticker": "NIO",
+            "companyName": "Nio Inc Class A ADR",
+            "currency": "USD"
+        },
+        {
+            "ticker": "UNH",
+            "companyName": "UnitedHealth Group Inc",
+            "currency": "USD"
+        },
+        {
+            "ticker": "ACN",
+            "companyName": "Accenture plc",
+            "currency": "USD"
+        },
+        {
+            "ticker": "KO",
+            "companyName": "Coca-Cola Co",
+            "currency": "USD"
+        },
+        {
+            "ticker": "AVGO",
+            "companyName": "Broadcom Inc",
+            "currency": "USD"
+        },
+        {
+            "ticker": "LMT",
+            "companyName": "Lockheed Martin Corporation",
+            "currency": "USD"
+        },
+        {
+            "ticker": "WFC",
+            "companyName": "Wells Fargo & Company",
+            "currency": "USD"
+        },
+        {
+            "ticker": "VZ",
+            "companyName": "Verizon Communications Inc",
+            "currency": "USD"
+        },
+        {
+            "ticker": "PG",
+            "companyName": "Procter & Gamble Company",
+            "currency": "USD"
+        },
+        {
+            "ticker": "UNP",
+            "companyName": "Union Pacific Corporation",
+            "currency": "USD"
+        }
+        ]
+}
