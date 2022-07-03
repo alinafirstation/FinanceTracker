@@ -1,0 +1,40 @@
+PODS:
+  - Charts (4.0.2):
+    - Charts/Core (= 4.0.2)
+  - Charts/Core (4.0.2):
+    - SwiftAlgorithms (~> 1.0)
+  - Kingfisher (7.2.1)
+  - Realm (10.25.1):
+    - Realm/Headers (= 10.25.1)
+  - Realm/Headers (10.25.1)
+  - RealmSwift (10.25.1):
+    - Realm (= 10.25.1)
+  - SnapKit (5.6.0)
+  - SwiftAlgorithms (1.0.0)
+
+DEPENDENCIES:
+  - Charts
+  - Kingfisher
+  - RealmSwift
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - Charts
+    - Kingfisher
+    - Realm
+    - RealmSwift
+    - SnapKit
+    - SwiftAlgorithms
+
+SPEC CHECKSUMS:
+  Charts: cfa4e911e6dc289582c2fe011a0e87c03d96727f
+  Kingfisher: 7c084bebf7d548c623ad41bcf765fb200efed369
+  Realm: 1a6e9b4f6983711655d8c0bcb6d2d29c3afbb1f3
+  RealmSwift: e72669550d27082aa4fad5d176f5076cfe806245
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  SwiftAlgorithms: 38dda4731d19027fdeee1125f973111bf3386b53
+
+PODFILE CHECKSUM: 528d693249743e38cb3b517eda8674fb1c04f991
+
+COCOAPODS: 1.11.3
